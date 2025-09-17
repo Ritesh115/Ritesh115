@@ -1,3 +1,5 @@
+<img width="267" height="200" alt="image" src="https://github.com/user-attachments/assets/a82514cd-cc76-4161-abf8-a0037581323e" />
+
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
 <h3 align="center">A full stack (MERN) developer from India, coding both logic and beauty into the web</h3>
