@@ -1,4 +1,4 @@
-<img width="267" height="200" alt="image" src="https://github.com/user-attachments/assets/a82514cd-cc76-4161-abf8-a0037581323e" />
+https://camo.githubusercontent.com/29e5777bab32c4d32790b739735638d136923da092c99ba3f545b649d4e76b3d/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f31316a616350497442734a444c612f736f757263652e676966
 
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
